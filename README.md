@@ -1,3 +1,3 @@
 # MarketingAnalytics
-Spark + Python code for Maketing Analytics
+Spark + Python/Scala code for Maketing Analytics
 https://zhouyonglong.wordpress.com/
